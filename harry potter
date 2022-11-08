@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>HARRY POTTER</title>
+    </head>
+
+    <body>
+    	<img id = "baner" src="banner.jpg">
+
+     #banner { <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>HARRY POTTER</title>
+    </head>
+
+    <body>
+
+   <h1> HARRY POTTER</h1>
+
+ <p> Harry Potter é um<strong> garoto órfão que vive infeliz com seus tios, os Dursleys.</strong> Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos</p>. 
+
+ <p><em>Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola.</em> Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony WeaslHermione Granger,logo ao chegar a renomada escola de magia e bruxaria de Hogwarts,harry e seus amigos seu preparados para a serimonia de escolha ds casas, e acaba conhecendo Draco,que acaba virando um rival da parte do tal.
+ </p>. 
+ </body>
+</html>
